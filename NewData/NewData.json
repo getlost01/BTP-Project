@@ -195,6 +195,68 @@
     },
     {
         "name": "allergic rhinitis",
+        "description": "Also known as hay fever, allergic rhinitis is an allergic response to specific allergens causing inflammation of the nasal passages.",
+        "symptom": [
+            "runny nose",
+            "nasal congestion",
+            "sneezing",
+            "watery eyes",
+            "itchy nose, eyes, or throat",
+            "coughing",
+            "fatigue",
+            "headache"
+        ],
+        "remedy": [
+            "Antihistamines",
+            "Decongestants",
+            "Nasal corticosteroids",
+            "Leukotriene modifiers",
+            "Allergy shots",
+            "Saline nasal irrigation",
+            "Acupuncture",
+            "Butterbur extract"
+        ],
+        "foodAvoid": [
+            "Dairy products",
+            "Refined sugars",
+            "Processed foods",
+            "Artificial additives",
+            "Alcohol",
+            "Spicy foods",
+            "Excessive salt",
+            "Caffeine"
+        ],
+        "ayurvedicDiet": [
+            "Turmeric milk",
+            "Ginger tea",
+            "Local honey",
+            "Nettle tea",
+            "Licorice root tea",
+            "Probiotic foods",
+            "Omega-3 fatty acids",
+            "Vitamin C-rich foods"
+        ],
+        "ageGroup": "adult",
+        "gender": "female",
+        "ayurvedicRemedies": [
+            "Steam inhalation with eucalyptus oil",
+            "Neti pot saline wash",
+            "Ginger and honey tea",
+            "Peppermint oil steam"
+        ],
+        "yoga": [
+            "Surya Namaskar (Sun Salutation)",
+            "Vajrasana (Thunderbolt Pose)",
+            "Balasana (Child's Pose)",
+            "Setu Bandhasana (Bridge Pose)",
+            "Sarvangasana (Shoulder Stand)",
+            "Matsyasana (Fish Pose)",
+            "Pranayama",
+            "Meditation"
+        ]
+    },
+    {
+        "name": "allergic rhinitis",
         "description": "An allergic reaction to certain substances, causing symptoms like sneezing, runny nose, and itchy eyes.",
         "symptom": [
             "sneezing",
@@ -458,7 +520,7 @@
         ]
     },
     {
-        "name": "alzheimer's disease",
+        "name": "alzheimer",
         "description": "A progressive disorder that causes brain cells to waste away (degenerate) and die.",
         "symptom": [
             "memory loss",
@@ -524,7 +586,7 @@
         ]
     },
     {
-        "name": "alzheimer's disease",
+        "name": "alzheimer",
         "description": "A progressive disorder that causes brain cells to waste away (degenerate) and die.",
         "symptom": [
             "memory loss",
@@ -590,7 +652,7 @@
         ]
     },
     {
-        "name": "amyotrophic lateral sclerosis (als)",
+        "name": "amyotrophic lateral sclerosis",
         "description": "A progressive nervous system disease that affects nerve cells in the brain and spinal cord, leading to loss of muscle control.",
         "symptom": [
             "muscle weakness",
@@ -641,7 +703,7 @@
         ]
     },
     {
-        "name": "amyotrophic lateral sclerosis (als)",
+        "name": "amyotrophic lateral sclerosis",
         "description": "A progressive nervous system disease that affects nerve cells in the brain and spinal cord, leading to loss of muscle control.",
         "symptom": [
             "muscle weakness",
@@ -736,6 +798,316 @@
         ],
         "ageGroup": "adult",
         "gender": "male",
+        "ayurvedicRemedies": [
+            "Beetroot juice",
+            "Spinach soup",
+            "Fenugreek seed water",
+            "Pomegranate juice"
+        ],
+        "yoga": [
+            "Vajrasana (Thunderbolt Pose)",
+            "Sarvangasana (Shoulder Stand)",
+            "Paschimottanasana (Seated Forward Bend)",
+            "Ardha Matsyendrasana (Half Lord of the Fishes Pose)",
+            "Pranayama",
+            "Meditation",
+            "Yoga Nidra",
+            "Shavasana (Corpse Pose)"
+        ]
+    },
+    {
+        "name": "anemia",
+        "description": "A condition characterized by a deficiency of red blood cells or hemoglobin in the blood.",
+        "symptom": [
+            "fatigue",
+            "weakness",
+            "pale or yellowish skin",
+            "irregular heartbeat",
+            "shortness of breath",
+            "dizziness or lightheadedness",
+            "cold hands and feet",
+            "headache"
+        ],
+        "remedy": [
+            "Iron supplements",
+            "Vitamin B12 supplements",
+            "Folic acid supplements",
+            "Dietary changes (e.g., iron-rich foods)",
+            "Blood transfusions",
+            "Medications to increase red blood cell production",
+            "Treatment of underlying conditions",
+            "Lifestyle changes"
+        ],
+        "foodAvoid": [
+            "Caffeine",
+            "Alcohol",
+            "High-fiber foods",
+            "Raw vegetables",
+            "Processed foods",
+            "Excessive dairy products",
+            "Red meat",
+            "Sugary snacks"
+        ],
+        "ayurvedicDiet": [
+            "Beetroot",
+            "Spinach",
+            "Fenugreek seeds",
+            "Dates",
+            "Pomegranate",
+            "Amla",
+            "Sesame seeds",
+            "Jaggery"
+        ],
+        "ageGroup": "adult",
+        "gender": "female",
+        "ayurvedicRemedies": [
+            "Beetroot juice",
+            "Spinach soup",
+            "Fenugreek seed water",
+            "Pomegranate juice"
+        ],
+        "yoga": [
+            "Vajrasana (Thunderbolt Pose)",
+            "Sarvangasana (Shoulder Stand)",
+            "Paschimottanasana (Seated Forward Bend)",
+            "Ardha Matsyendrasana (Half Lord of the Fishes Pose)",
+            "Pranayama",
+            "Meditation",
+            "Yoga Nidra",
+            "Shavasana (Corpse Pose)"
+        ]
+    },
+        {
+        "name": "anemia",
+        "description": "A condition characterized by a deficiency of red blood cells or hemoglobin in the blood.",
+        "symptom": [
+            "fatigue",
+            "weakness",
+            "pale or yellowish skin",
+            "irregular heartbeat",
+            "shortness of breath",
+            "dizziness or lightheadedness",
+            "cold hands and feet",
+            "headache"
+        ],
+        "remedy": [
+            "Iron supplements",
+            "Vitamin B12 supplements",
+            "Folic acid supplements",
+            "Dietary changes (e.g., iron-rich foods)",
+            "Blood transfusions",
+            "Medications to increase red blood cell production",
+            "Treatment of underlying conditions",
+            "Lifestyle changes"
+        ],
+        "foodAvoid": [
+            "Caffeine",
+            "Alcohol",
+            "High-fiber foods",
+            "Raw vegetables",
+            "Processed foods",
+            "Excessive dairy products",
+            "Red meat",
+            "Sugary snacks"
+        ],
+        "ayurvedicDiet": [
+            "Beetroot",
+            "Spinach",
+            "Fenugreek seeds",
+            "Dates",
+            "Pomegranate",
+            "Amla",
+            "Sesame seeds",
+            "Jaggery"
+        ],
+        "ageGroup": "children",
+        "gender": "male",
+        "ayurvedicRemedies": [
+            "Beetroot juice",
+            "Spinach soup",
+            "Fenugreek seed water",
+            "Pomegranate juice"
+        ],
+        "yoga": [
+            "Vajrasana (Thunderbolt Pose)",
+            "Sarvangasana (Shoulder Stand)",
+            "Paschimottanasana (Seated Forward Bend)",
+            "Ardha Matsyendrasana (Half Lord of the Fishes Pose)",
+            "Pranayama",
+            "Meditation",
+            "Yoga Nidra",
+            "Shavasana (Corpse Pose)"
+        ]
+    },
+    {
+        "name": "anemia",
+        "description": "A condition characterized by a deficiency of red blood cells or hemoglobin in the blood.",
+        "symptom": [
+            "fatigue",
+            "weakness",
+            "pale or yellowish skin",
+            "irregular heartbeat",
+            "shortness of breath",
+            "dizziness or lightheadedness",
+            "cold hands and feet",
+            "headache"
+        ],
+        "remedy": [
+            "Iron supplements",
+            "Vitamin B12 supplements",
+            "Folic acid supplements",
+            "Dietary changes (e.g., iron-rich foods)",
+            "Blood transfusions",
+            "Medications to increase red blood cell production",
+            "Treatment of underlying conditions",
+            "Lifestyle changes"
+        ],
+        "foodAvoid": [
+            "Caffeine",
+            "Alcohol",
+            "High-fiber foods",
+            "Raw vegetables",
+            "Processed foods",
+            "Excessive dairy products",
+            "Red meat",
+            "Sugary snacks"
+        ],
+        "ayurvedicDiet": [
+            "Beetroot",
+            "Spinach",
+            "Fenugreek seeds",
+            "Dates",
+            "Pomegranate",
+            "Amla",
+            "Sesame seeds",
+            "Jaggery"
+        ],
+        "ageGroup": "children",
+        "gender": "female",
+        "ayurvedicRemedies": [
+            "Beetroot juice",
+            "Spinach soup",
+            "Fenugreek seed water",
+            "Pomegranate juice"
+        ],
+        "yoga": [
+            "Vajrasana (Thunderbolt Pose)",
+            "Sarvangasana (Shoulder Stand)",
+            "Paschimottanasana (Seated Forward Bend)",
+            "Ardha Matsyendrasana (Half Lord of the Fishes Pose)",
+            "Pranayama",
+            "Meditation",
+            "Yoga Nidra",
+            "Shavasana (Corpse Pose)"
+        ]
+    },
+    {
+        "name": "anemia",
+        "description": "A condition characterized by a deficiency of red blood cells or hemoglobin in the blood.",
+        "symptom": [
+            "fatigue",
+            "weakness",
+            "pale or yellowish skin",
+            "irregular heartbeat",
+            "shortness of breath",
+            "dizziness or lightheadedness",
+            "cold hands and feet",
+            "headache"
+        ],
+        "remedy": [
+            "Iron supplements",
+            "Vitamin B12 supplements",
+            "Folic acid supplements",
+            "Dietary changes (e.g., iron-rich foods)",
+            "Blood transfusions",
+            "Medications to increase red blood cell production",
+            "Treatment of underlying conditions",
+            "Lifestyle changes"
+        ],
+        "foodAvoid": [
+            "Caffeine",
+            "Alcohol",
+            "High-fiber foods",
+            "Raw vegetables",
+            "Processed foods",
+            "Excessive dairy products",
+            "Red meat",
+            "Sugary snacks"
+        ],
+        "ayurvedicDiet": [
+            "Beetroot",
+            "Spinach",
+            "Fenugreek seeds",
+            "Dates",
+            "Pomegranate",
+            "Amla",
+            "Sesame seeds",
+            "Jaggery"
+        ],
+        "ageGroup": "senior",
+        "gender": "male",
+        "ayurvedicRemedies": [
+            "Beetroot juice",
+            "Spinach soup",
+            "Fenugreek seed water",
+            "Pomegranate juice"
+        ],
+        "yoga": [
+            "Vajrasana (Thunderbolt Pose)",
+            "Sarvangasana (Shoulder Stand)",
+            "Paschimottanasana (Seated Forward Bend)",
+            "Ardha Matsyendrasana (Half Lord of the Fishes Pose)",
+            "Pranayama",
+            "Meditation",
+            "Yoga Nidra",
+            "Shavasana (Corpse Pose)"
+        ]
+    },
+    {
+        "name": "anemia",
+        "description": "A condition characterized by a deficiency of red blood cells or hemoglobin in the blood.",
+        "symptom": [
+            "fatigue",
+            "weakness",
+            "pale or yellowish skin",
+            "irregular heartbeat",
+            "shortness of breath",
+            "dizziness or lightheadedness",
+            "cold hands and feet",
+            "headache"
+        ],
+        "remedy": [
+            "Iron supplements",
+            "Vitamin B12 supplements",
+            "Folic acid supplements",
+            "Dietary changes (e.g., iron-rich foods)",
+            "Blood transfusions",
+            "Medications to increase red blood cell production",
+            "Treatment of underlying conditions",
+            "Lifestyle changes"
+        ],
+        "foodAvoid": [
+            "Caffeine",
+            "Alcohol",
+            "High-fiber foods",
+            "Raw vegetables",
+            "Processed foods",
+            "Excessive dairy products",
+            "Red meat",
+            "Sugary snacks"
+        ],
+        "ayurvedicDiet": [
+            "Beetroot",
+            "Spinach",
+            "Fenugreek seeds",
+            "Dates",
+            "Pomegranate",
+            "Amla",
+            "Sesame seeds",
+            "Jaggery"
+        ],
+        "ageGroup": "senior",
+        "gender": "female",
         "ayurvedicRemedies": [
             "Beetroot juice",
             "Spinach soup",
@@ -863,6 +1235,270 @@
             "Leafy greens"
         ],
         "ageGroup": "adult",
+        "gender": "female",
+        "ayurvedicRemedies": [
+            "Brahmi",
+            "Ashwagandha",
+            "Jatamansi",
+            "Valerian root",
+            "Lavender essential oil",
+            "Chamomile tea",
+            "Saffron",
+            "Holy Basil (Tulsi)"
+        ],
+        "yoga": [
+            "Savasana (Corpse Pose)",
+            "Balasana (Child's Pose)",
+            "Viparita Karani (Legs-Up-The-Wall Pose)",
+            "Supta Baddha Konasana (Reclining Bound Angle Pose)",
+            "Uttanasana (Standing Forward Bend)",
+            "Anulom Vilom Pranayama (Alternate Nostril Breathing)",
+            "Bhramari Pranayama (Bee Breath)",
+            "Yoga Nidra (Yogic Sleep)"
+        ]
+    },
+    {
+        "name": "anxiety",
+        "description": "Anxiety is a normal response to stress or danger, but excessive or persistent anxiety can interfere with daily activities and quality of life.",
+        "symptom": [
+            "feeling nervous, restless, or tense",
+            "having a sense of impending danger, panic, or doom",
+            "increased heart rate",
+            "rapid breathing (hyperventilation)",
+            "sweating",
+            "trembling",
+            "feeling weak or tired",
+            "difficulty concentrating or thinking about anything other than the present worry"
+        ],
+        "remedy": [
+            "Therapy (cognitive-behavioral therapy, exposure therapy)",
+            "Medications (antidepressants, anti-anxiety medications)",
+            "Relaxation techniques (deep breathing, meditation, yoga)",
+            "Regular exercise",
+            "Adequate sleep",
+            "Healthy diet",
+            "Limiting caffeine and alcohol",
+            "Stress management techniques"
+        ],
+        "foodAvoid": [
+            "Caffeine",
+            "Alcohol",
+            "Sugary foods",
+            "Processed foods",
+            "High-fat foods",
+            "Excessive salt",
+            "Spicy foods",
+            "Carbonated drinks"
+        ],
+        "ayurvedicDiet": [
+            "Chamomile tea",
+            "Ashwagandha",
+            "Tulsi (Holy Basil) tea",
+            "Green tea",
+            "Turmeric milk",
+            "Fatty fish (omega-3 fatty acids)",
+            "Whole grains",
+            "Leafy greens"
+        ],
+        "ageGroup": "children",
+        "gender": "male",
+        "ayurvedicRemedies": [
+            "Brahmi",
+            "Ashwagandha",
+            "Jatamansi",
+            "Valerian root",
+            "Lavender essential oil",
+            "Chamomile tea",
+            "Saffron",
+            "Holy Basil (Tulsi)"
+        ],
+        "yoga": [
+            "Savasana (Corpse Pose)",
+            "Balasana (Child's Pose)",
+            "Viparita Karani (Legs-Up-The-Wall Pose)",
+            "Supta Baddha Konasana (Reclining Bound Angle Pose)",
+            "Uttanasana (Standing Forward Bend)",
+            "Anulom Vilom Pranayama (Alternate Nostril Breathing)",
+            "Bhramari Pranayama (Bee Breath)",
+            "Yoga Nidra (Yogic Sleep)"
+        ]
+    },
+    {
+        "name": "anxiety",
+        "description": "Anxiety is a normal response to stress or danger, but excessive or persistent anxiety can interfere with daily activities and quality of life.",
+        "symptom": [
+            "feeling nervous, restless, or tense",
+            "having a sense of impending danger, panic, or doom",
+            "increased heart rate",
+            "rapid breathing (hyperventilation)",
+            "sweating",
+            "trembling",
+            "feeling weak or tired",
+            "difficulty concentrating or thinking about anything other than the present worry"
+        ],
+        "remedy": [
+            "Therapy (cognitive-behavioral therapy, exposure therapy)",
+            "Medications (antidepressants, anti-anxiety medications)",
+            "Relaxation techniques (deep breathing, meditation, yoga)",
+            "Regular exercise",
+            "Adequate sleep",
+            "Healthy diet",
+            "Limiting caffeine and alcohol",
+            "Stress management techniques"
+        ],
+        "foodAvoid": [
+            "Caffeine",
+            "Alcohol",
+            "Sugary foods",
+            "Processed foods",
+            "High-fat foods",
+            "Excessive salt",
+            "Spicy foods",
+            "Carbonated drinks"
+        ],
+        "ayurvedicDiet": [
+            "Chamomile tea",
+            "Ashwagandha",
+            "Tulsi (Holy Basil) tea",
+            "Green tea",
+            "Turmeric milk",
+            "Fatty fish (omega-3 fatty acids)",
+            "Whole grains",
+            "Leafy greens"
+        ],
+        "ageGroup": "children",
+        "gender": "female",
+        "ayurvedicRemedies": [
+            "Brahmi",
+            "Ashwagandha",
+            "Jatamansi",
+            "Valerian root",
+            "Lavender essential oil",
+            "Chamomile tea",
+            "Saffron",
+            "Holy Basil (Tulsi)"
+        ],
+        "yoga": [
+            "Savasana (Corpse Pose)",
+            "Balasana (Child's Pose)",
+            "Viparita Karani (Legs-Up-The-Wall Pose)",
+            "Supta Baddha Konasana (Reclining Bound Angle Pose)",
+            "Uttanasana (Standing Forward Bend)",
+            "Anulom Vilom Pranayama (Alternate Nostril Breathing)",
+            "Bhramari Pranayama (Bee Breath)",
+            "Yoga Nidra (Yogic Sleep)"
+        ]
+    },
+    {
+        "name": "anxiety",
+        "description": "Anxiety is a normal response to stress or danger, but excessive or persistent anxiety can interfere with daily activities and quality of life.",
+        "symptom": [
+            "feeling nervous, restless, or tense",
+            "having a sense of impending danger, panic, or doom",
+            "increased heart rate",
+            "rapid breathing (hyperventilation)",
+            "sweating",
+            "trembling",
+            "feeling weak or tired",
+            "difficulty concentrating or thinking about anything other than the present worry"
+        ],
+        "remedy": [
+            "Therapy (cognitive-behavioral therapy, exposure therapy)",
+            "Medications (antidepressants, anti-anxiety medications)",
+            "Relaxation techniques (deep breathing, meditation, yoga)",
+            "Regular exercise",
+            "Adequate sleep",
+            "Healthy diet",
+            "Limiting caffeine and alcohol",
+            "Stress management techniques"
+        ],
+        "foodAvoid": [
+            "Caffeine",
+            "Alcohol",
+            "Sugary foods",
+            "Processed foods",
+            "High-fat foods",
+            "Excessive salt",
+            "Spicy foods",
+            "Carbonated drinks"
+        ],
+        "ayurvedicDiet": [
+            "Chamomile tea",
+            "Ashwagandha",
+            "Tulsi (Holy Basil) tea",
+            "Green tea",
+            "Turmeric milk",
+            "Fatty fish (omega-3 fatty acids)",
+            "Whole grains",
+            "Leafy greens"
+        ],
+        "ageGroup": "senior",
+        "gender": "male",
+        "ayurvedicRemedies": [
+            "Brahmi",
+            "Ashwagandha",
+            "Jatamansi",
+            "Valerian root",
+            "Lavender essential oil",
+            "Chamomile tea",
+            "Saffron",
+            "Holy Basil (Tulsi)"
+        ],
+        "yoga": [
+            "Savasana (Corpse Pose)",
+            "Balasana (Child's Pose)",
+            "Viparita Karani (Legs-Up-The-Wall Pose)",
+            "Supta Baddha Konasana (Reclining Bound Angle Pose)",
+            "Uttanasana (Standing Forward Bend)",
+            "Anulom Vilom Pranayama (Alternate Nostril Breathing)",
+            "Bhramari Pranayama (Bee Breath)",
+            "Yoga Nidra (Yogic Sleep)"
+        ]
+    },
+    {
+        "name": "anxiety",
+        "description": "Anxiety is a normal response to stress or danger, but excessive or persistent anxiety can interfere with daily activities and quality of life.",
+        "symptom": [
+            "feeling nervous, restless, or tense",
+            "having a sense of impending danger, panic, or doom",
+            "increased heart rate",
+            "rapid breathing (hyperventilation)",
+            "sweating",
+            "trembling",
+            "feeling weak or tired",
+            "difficulty concentrating or thinking about anything other than the present worry"
+        ],
+        "remedy": [
+            "Therapy (cognitive-behavioral therapy, exposure therapy)",
+            "Medications (antidepressants, anti-anxiety medications)",
+            "Relaxation techniques (deep breathing, meditation, yoga)",
+            "Regular exercise",
+            "Adequate sleep",
+            "Healthy diet",
+            "Limiting caffeine and alcohol",
+            "Stress management techniques"
+        ],
+        "foodAvoid": [
+            "Caffeine",
+            "Alcohol",
+            "Sugary foods",
+            "Processed foods",
+            "High-fat foods",
+            "Excessive salt",
+            "Spicy foods",
+            "Carbonated drinks"
+        ],
+        "ayurvedicDiet": [
+            "Chamomile tea",
+            "Ashwagandha",
+            "Tulsi (Holy Basil) tea",
+            "Green tea",
+            "Turmeric milk",
+            "Fatty fish (omega-3 fatty acids)",
+            "Whole grains",
+            "Leafy greens"
+        ],
+        "ageGroup": "senior",
         "gender": "female",
         "ayurvedicRemedies": [
             "Brahmi",

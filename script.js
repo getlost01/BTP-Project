@@ -30,6 +30,8 @@ const Main = async () => {
     try {
         let DisplayContent = 'Display Data Here...';
         const data = await loadJSON('./NewData/NewData.json');
+        const herbs = await loadJSON('./NewData/HerbsData.json');
+        console.log(herbs);
         data.sort((a, b) => {
             if (a.name > b.name) {
                 return 1;

@@ -80,7 +80,7 @@ const Main = async () => {
         // convert all the field [name, ageGroup, gender] and symptom array to lowercase
         let newData = [];
         data.forEach((item) => {
-            // console.log(item.name)
+            console.log(item.name)
             let newItem = item;
             newItem.name = item.name.toLowerCase();
             newItem.ageGroup = item.ageGroup.toLowerCase();

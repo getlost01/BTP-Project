@@ -1,0 +1,2 @@
+stroke -> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3006180/
+thalassemia -> https://mayoclinic.org/diseases-conditions/thalassemia/symptoms-causes/syc-20354995

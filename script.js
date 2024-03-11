@@ -42,11 +42,13 @@ const Main = async () => {
 
 
         // Display name of unique diseases
-        let uniqueDiseases = [];
+        let uniqueDiseases = new Set();
+        let c = 0;
         data.forEach((item) => {
-            if (!uniqueDiseases.includes({name: item.name, gender: item.gender, ageGroup: item.ageGroup})) {
-                uniqueDiseases.push({name: item.name, gender: item.gender, ageGroup: item.ageGroup});
-            }
+            if(uniqueDiseases.has({name: item.name, gender: item.gender, ageGroup: item.ageGroup}))
+                ++c;
+            else
+                uniqueDiseases.add({name: item.name, gender: item.gender, ageGroup: item.ageGroup});
         });
 
 
@@ -78,6 +80,7 @@ const Main = async () => {
         // convert all the field [name, ageGroup, gender] and symptom array to lowercase
         let newData = [];
         data.forEach((item) => {
+            // console.log(item.name)
             let newItem = item;
             newItem.name = item.name.toLowerCase();
             newItem.ageGroup = item.ageGroup.toLowerCase();

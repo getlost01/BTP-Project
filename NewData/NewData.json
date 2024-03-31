@@ -651,7 +651,7 @@
       "symptom": [
         "confusion",
         "difficulty completing familiar tasks",
-        "difficulty with problem-solving",
+        "difficulty with problem solving",
         "memory loss",
         "mood swings",
         "personality changes",
@@ -719,7 +719,7 @@
       "symptom": [
         "confusion",
         "difficulty completing familiar tasks",
-        "difficulty with problem-solving",
+        "difficulty with problem solving",
         "memory loss",
         "mood swings",
         "personality changes",
@@ -1526,7 +1526,7 @@
         "restless",
         "sweating",
         "tense",
-        "thinking about anything other than present worry",
+        "present worry distraction",
         "tired",
         "trembling"
       ],
@@ -1596,7 +1596,7 @@
         "restless",
         "sweating",
         "tense",
-        "thinking about anything other than present worry",
+        "present worry distraction",
         "tired",
         "trembling"
       ],
@@ -1666,7 +1666,7 @@
         "restless",
         "sweating",
         "tense",
-        "thinking about anything other than present worry",
+        "present worry distraction",
         "tired",
         "trembling"
       ],
@@ -1736,7 +1736,7 @@
         "restless",
         "sweating",
         "tense",
-        "thinking about anything other than present worry",
+        "present worry distraction",
         "tired",
         "trembling"
       ],
@@ -1806,7 +1806,7 @@
         "restless",
         "sweating",
         "tense",
-        "thinking about anything other than present worry",
+        "present worry distraction",
         "tired",
         "trembling"
       ],
@@ -1876,7 +1876,7 @@
         "restless",
         "sweating",
         "tense",
-        "thinking about anything other than present worry",
+        "present worry distraction",
         "tired",
         "trembling"
       ],
@@ -3555,17 +3555,17 @@
       "name": "basal cell carcinoma",
       "description": "A type of skin cancer that begins in basal cells, found in skin's deepest layer.",
       "symptom": [
-        "brown scar-like lesion",
+        "brown scar like lesion",
         "crusting",
         "flat lesion",
-        "flesh-colored lesion",
+        "flesh colored lesion",
         "oozing",
         "open sore",
         "pearly bump",
         "waxy bump",
         "pink growth",
         "reddish patch",
-        "scar-like area",
+        "scar like area",
         "shiny bump"
       ],
       "remedy": [
@@ -3625,13 +3625,13 @@
       "name": "basal cell carcinoma",
       "description": "A type of skin cancer that begins in basal cells, found in skin's deepest layer.",
       "symptom": [
-        "brown scar-like lesion",
+        "brown scar like lesion",
         "crusting",
         "oozing",
         "open sore",
         "pink growth",
         "reddish patch",
-        "scar-like area",
+        "scar like area",
         "shiny bump",
         "waxy bump"
       ],
@@ -3692,17 +3692,17 @@
       "name": "basal cell carcinoma",
       "description": "A type of skin cancer that begins in basal cells, found in skin's deepest layer among female seniors.",
       "symptom": [
-        "brown scar-like lesion",
+        "brown scar like lesion",
         "crusting",
         "flat lesion",
-        "flesh-colored lesion",
+        "flesh colored lesion",
         "oozing",
         "open sore",
         "pearly bump",
         "waxy bump",
         "pink growth",
         "reddish patch",
-        "scar-like area",
+        "scar like area",
         "shiny bump"
       ],
       "remedy": [
@@ -3762,17 +3762,17 @@
       "name": "basal cell carcinoma",
       "description": "A type of skin cancer that begins in basal cells, found in skin's deepest layer among male seniors.",
       "symptom": [
-        "brown scar-like lesion",
+        "brown scar like lesion",
         "crusting",
         "flat lesion",
-        "flesh-colored lesion",
+        "flesh colored lesion",
         "oozing",
         "open sore",
         "pearly bump",
         "waxy bump",
         "pink growth",
         "reddish patch",
-        "scar-like area",
+        "scar like area",
         "shiny bump"
       ],
       "remedy": [
@@ -4970,7 +4970,7 @@
     },
     {
       "name": "chickenpox",
-      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid-filled blisters.",
+      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid filled blisters.",
       "symptom": [
         "fever",
         "headache",
@@ -5017,7 +5017,7 @@
     },
     {
       "name": "chickenpox",
-      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid-filled blisters.",
+      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid filled blisters.",
       "symptom": [
         "fever",
         "headache",
@@ -5064,7 +5064,7 @@
     },
     {
       "name": "chickenpox",
-      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid-filled blisters.",
+      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid filled blisters.",
       "symptom": [
         "fever",
         "headache",
@@ -5111,7 +5111,7 @@
     },
     {
       "name": "chickenpox",
-      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid-filled blisters.",
+      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid filled blisters.",
       "symptom": [
         "fever",
         "headache",
@@ -5158,7 +5158,7 @@
     },
     {
       "name": "chickenpox",
-      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid-filled blisters.",
+      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid filled blisters.",
       "symptom": [
         "fever",
         "headache",
@@ -5205,7 +5205,7 @@
     },
     {
       "name": "chickenpox",
-      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid-filled blisters.",
+      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid filled blisters.",
       "symptom": [
         "fever",
         "headache",
@@ -5252,7 +5252,7 @@
     },
     {
       "name": "chickenpox",
-      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid-filled blisters.",
+      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid filled blisters.",
       "symptom": [
         "fever",
         "headache",
@@ -5299,7 +5299,7 @@
     },
     {
       "name": "chickenpox",
-      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid-filled blisters.",
+      "description": "A highly contagious viral infection characterized by an itchy rash with red spots and fluid filled blisters.",
       "symptom": [
         "fever",
         "headache",
@@ -9838,10 +9838,10 @@
         "bloating",
         "blockage in your rectum",
         "dry stools",
-        "feeling as though you can't completely empty stool from your rectum",
+        "incomplete stool evacuation",
         "fewer than three bowel movements week",
         "hard stools",
-        "need to use manual maneuvers to have bowel movement",
+        "manual bowel movement assistance",
         "straining during bowel movements"
       ],
       "remedy": [
@@ -9905,10 +9905,10 @@
         "bloating",
         "blockage in your rectum",
         "dry stools",
-        "feeling as though you can't completely empty stool from your rectum",
+        "incomplete stool evacuation",
         "fewer than three bowel movements week",
         "hard stools",
-        "need to use manual maneuvers to have bowel movement",
+        "manual bowel movement assistance",
         "straining during bowel movements"
       ],
       "remedy": [
@@ -9972,10 +9972,10 @@
         "bloating",
         "blockage in your rectum",
         "dry stools",
-        "feeling as though you can't completely empty stool from your rectum",
+        "incomplete stool evacuation",
         "fewer than three bowel movements week",
         "hard stools",
-        "need to use manual maneuvers to have bowel movement",
+        "manual bowel movement assistance",
         "straining during bowel movements"
       ],
       "remedy": [
@@ -10039,10 +10039,10 @@
         "bloating",
         "blockage in your rectum",
         "dry stools",
-        "feeling as though you can't completely empty stool from your rectum",
+        "incomplete stool evacuation",
         "fewer than three bowel movements week",
         "hard stools",
-        "need to use manual maneuvers to have bowel movement",
+        "manual bowel movement assistance",
         "straining during bowel movements"
       ],
       "remedy": [
@@ -10106,10 +10106,10 @@
         "bloating",
         "blockage in your rectum",
         "dry stools",
-        "feeling as though you can't completely empty stool from your rectum",
+        "incomplete stool evacuation",
         "fewer than three bowel movements week",
         "hard stools",
-        "need to use manual maneuvers to have bowel movement",
+        "manual bowel movement assistance",
         "straining during bowel movements"
       ],
       "remedy": [
@@ -10173,10 +10173,10 @@
         "bloating",
         "blockage in your rectum",
         "dry stools",
-        "feeling as though you can't completely empty stool from your rectum",
+        "incomplete stool evacuation",
         "fewer than three bowel movements week",
         "hard stools",
-        "need to use manual maneuvers to have bowel movement",
+        "manual bowel movement assistance",
         "straining during bowel movements"
       ],
       "remedy": [
@@ -10240,10 +10240,10 @@
         "bloating",
         "blockage in your rectum",
         "dry stools",
-        "feeling as though you can't completely empty stool from your rectum",
+        "incomplete stool evacuation",
         "fewer than three bowel movements week",
         "hard stools",
-        "need to use manual maneuvers to have bowel movement",
+        "manual bowel movement assistance",
         "straining during bowel movements"
       ],
       "remedy": [
@@ -10307,10 +10307,10 @@
         "bloating",
         "blockage in your rectum",
         "dry stools",
-        "feeling as though you can't completely empty stool from your rectum",
+        "incomplete stool evacuation",
         "fewer than three bowel movements week",
         "hard stools",
-        "need to use manual maneuvers to have bowel movement",
+        "manual bowel movement assistance",
         "straining during bowel movements"
       ],
       "remedy": [
@@ -12872,7 +12872,7 @@
         "increased thirst",
         "irritability",
         "mood changes",
-        "slow-healing sores",
+        "slow healing sores",
         "unexplained weight loss"
       ],
       "remedy": [
@@ -12936,7 +12936,7 @@
         "increased thirst",
         "irritability",
         "mood changes",
-        "slow-healing sores",
+        "slow healing sores",
         "unexplained weight loss"
       ],
       "remedy": [
@@ -13000,7 +13000,7 @@
         "increased thirst",
         "irritability",
         "mood changes",
-        "slow-healing sores",
+        "slow healing sores",
         "unexplained weight loss"
       ],
       "remedy": [
@@ -13064,7 +13064,7 @@
         "increased thirst",
         "irritability",
         "mood changes",
-        "slow-healing sores",
+        "slow healing sores",
         "unexplained weight loss"
       ],
       "remedy": [
@@ -13128,7 +13128,7 @@
         "increased thirst",
         "irritability",
         "mood changes",
-        "slow-healing sores",
+        "slow healing sores",
         "unexplained weight loss"
       ],
       "remedy": [
@@ -13192,7 +13192,7 @@
         "increased thirst",
         "irritability",
         "mood changes",
-        "slow-healing sores",
+        "slow healing sores",
         "unexplained weight loss"
       ],
       "remedy": [
@@ -15234,7 +15234,7 @@
       "description": "A chronic skin condition characterized by inflamed, red, itchy patches of skin.",
       "symptom": [
         "crusting",
-        "dark-colored patches of skin",
+        "dark colored patches of skin",
         "dry skin",
         "inflamed skin",
         "intense itching",
@@ -15300,7 +15300,7 @@
       "description": "A chronic skin condition characterized by inflamed, red, itchy patches of skin.",
       "symptom": [
         "crusting",
-        "dark-colored patches of skin",
+        "dark colored patches of skin",
         "dry skin",
         "inflamed skin",
         "intense itching",
@@ -15369,7 +15369,7 @@
         "crusty sores",
         "discoloration",
         "dry patches",
-        "fluid-filled blisters",
+        "fluid filled blisters",
         "inflamed skin",
         "itchy skin",
         "raised bumps",
@@ -15440,7 +15440,7 @@
         "crusty sores",
         "discoloration",
         "dry patches",
-        "fluid-filled blisters",
+        "fluid filled blisters",
         "inflamed skin",
         "itchy skin",
         "raised bumps",
@@ -15508,7 +15508,7 @@
       "description": "A chronic skin condition characterized by inflamed, red, itchy patches of skin.",
       "symptom": [
         "crusting",
-        "dark-colored patches of skin",
+        "dark colored patches of skin",
         "dry skin",
         "inflamed skin",
         "intense itching",
@@ -15565,7 +15565,7 @@
       "description": "A chronic skin condition characterized by inflamed, red, itchy patches of skin.",
       "symptom": [
         "crusting",
-        "dark-colored patches of skin",
+        "dark colored patches of skin",
         "dry skin",
         "inflamed skin",
         "intense itching",
@@ -15622,7 +15622,7 @@
       "description": "A chronic skin condition characterized by inflamed, red, itchy patches of skin.",
       "symptom": [
         "crusting",
-        "dark-colored patches of skin",
+        "dark colored patches of skin",
         "dry skin",
         "inflamed skin",
         "intense itching",
@@ -15688,7 +15688,7 @@
       "description": "A chronic skin condition characterized by inflamed, red, itchy patches of skin.",
       "symptom": [
         "crusting",
-        "dark-colored patches of skin",
+        "dark colored patches of skin",
         "dry skin",
         "inflamed skin",
         "intense itching",
@@ -15753,7 +15753,7 @@
       "name": "emphysema",
       "description": "A type of COPD involving damage to air sacs (alveoli) in lungs.",
       "symptom": [
-        "barrel-shaped chest",
+        "barrel shaped chest",
         "chest tightness",
         "chronic cough",
         "fatigue",
@@ -15804,7 +15804,7 @@
       "name": "emphysema",
       "description": "A type of COPD involving damage to air sacs (alveoli) in lungs.",
       "symptom": [
-        "barrel-shaped chest",
+        "barrel shaped chest",
         "chest tightness",
         "chronic cough",
         "fatigue",
@@ -15921,7 +15921,7 @@
         "frequent urination",
         "heavy menstrual bleeding",
         "leg pains",
-        "menstrual periods lasting more than week",
+        "prolonged menstrual periods",
         "pain during sex",
         "pelvic pressure",
         "pelvic pain"
@@ -17208,7 +17208,7 @@
         "eye pain",
         "halos around lights",
         "nausea",
-        "patchy blind spots in central vision",
+        "blind spots in vision",
         "redness in eye",
         "severe headache",
         "tunnel vision in advanced stages",
@@ -17272,7 +17272,7 @@
         "eye pain",
         "halos around lights",
         "nausea",
-        "patchy blind spots in central vision",
+        "blind spots in vision",
         "redness in eye",
         "severe headache",
         "tunnel vision in advanced stages",
@@ -18078,7 +18078,7 @@
         "chronic cough",
         "difficulty swallowing",
         "hoarseness",
-        "regurgitation of acidic fluid into mouth",
+        "acidic regurgitation",
         "wheezing"
       ],
       "remedy": [
@@ -18144,7 +18144,7 @@
         "chronic cough",
         "difficulty swallowing",
         "hoarseness",
-        "regurgitation of acidic fluid into mouth",
+        "acidic regurgitation",
         "wheezing"
       ],
       "remedy": [
@@ -18210,7 +18210,7 @@
         "chronic cough",
         "difficulty swallowing",
         "hoarseness",
-        "regurgitation of acidic fluid into mouth",
+        "acidic regurgitation",
         "wheezing"
       ],
       "remedy": [
@@ -18276,7 +18276,7 @@
         "chronic cough",
         "difficulty swallowing",
         "hoarseness",
-        "regurgitation of acidic fluid into mouth",
+        "acidic regurgitation",
         "wheezing"
       ],
       "remedy": [
@@ -18342,7 +18342,7 @@
         "chronic cough",
         "difficulty swallowing",
         "hoarseness",
-        "regurgitation of acidic fluid into mouth",
+        "acidic regurgitation",
         "wheezing"
       ],
       "remedy": [
@@ -18408,7 +18408,7 @@
         "chronic cough",
         "difficulty swallowing",
         "hoarseness",
-        "regurgitation of acidic fluid into mouth",
+        "acidic regurgitation",
         "wheezing"
       ],
       "remedy": [
@@ -18474,7 +18474,7 @@
         "chronic cough",
         "difficulty swallowing",
         "hoarseness",
-        "regurgitation of acidic fluid into mouth",
+        "acidic regurgitation",
         "wheezing"
       ],
       "remedy": [
@@ -18540,7 +18540,7 @@
         "chronic cough",
         "difficulty swallowing",
         "hoarseness",
-        "regurgitation of acidic fluid into mouth",
+        "acidic regurgitation",
         "wheezing"
       ],
       "remedy": [
@@ -19278,7 +19278,7 @@
         "abdominal pain",
         "dark urine",
         "fatigue",
-        "flu-like symptoms",
+        "flu like symptoms",
         "loss of appetite",
         "nausea",
         "vomiting",
@@ -19348,7 +19348,7 @@
         "abdominal pain",
         "dark urine",
         "fatigue",
-        "flu-like symptoms",
+        "flu like symptoms",
         "loss of appetite",
         "nausea",
         "vomiting",
@@ -19399,7 +19399,7 @@
         "abdominal pain",
         "dark urine",
         "fatigue",
-        "flu-like symptoms",
+        "flu like symptoms",
         "loss of appetite",
         "nausea",
         "vomiting",
@@ -19450,7 +19450,7 @@
         "abdominal pain",
         "dark urine",
         "fatigue",
-        "flu-like symptoms",
+        "flu like symptoms",
         "loss of appetite",
         "nausea",
         "vomiting",
@@ -19501,7 +19501,7 @@
         "abdominal pain",
         "dark urine",
         "fatigue",
-        "flu-like symptoms",
+        "flu like symptoms",
         "loss of appetite",
         "nausea",
         "vomiting",
@@ -19552,7 +19552,7 @@
         "abdominal pain",
         "dark urine",
         "fatigue",
-        "flu-like symptoms",
+        "flu like symptoms",
         "loss of appetite",
         "nausea",
         "vomiting",
@@ -19621,7 +19621,7 @@
         "abdominal pain",
         "dark urine",
         "fatigue",
-        "flu-like symptoms",
+        "flu like symptoms",
         "loss of appetite",
         "nausea",
         "vomiting",
@@ -19687,7 +19687,7 @@
       "description": "An infectious liver disease caused by hepatitis virus (HAV).",
       "symptom": [
         "abdominal pain",
-        "clay-colored stools",
+        "clay colored stools",
         "dark urine",
         "fatigue",
         "jaundice",
@@ -19741,7 +19741,7 @@
       "description": "An infectious liver disease caused by hepatitis virus (HAV).",
       "symptom": [
         "abdominal pain",
-        "clay-colored stools",
+        "clay colored stools",
         "dark urine",
         "fatigue",
         "jaundice",
@@ -19795,7 +19795,7 @@
       "description": "An infectious liver disease caused by hepatitis virus (HAV).",
       "symptom": [
         "abdominal pain",
-        "clay-colored stools",
+        "clay colored stools",
         "dark urine",
         "fatigue",
         "jaundice",
@@ -19849,7 +19849,7 @@
       "description": "An infectious liver disease caused by hepatitis virus (HAV).",
       "symptom": [
         "abdominal pain",
-        "clay-colored stools",
+        "clay colored stools",
         "dark urine",
         "fatigue",
         "jaundice",
@@ -19903,7 +19903,7 @@
       "description": "An infectious liver disease caused by hepatitis virus (HAV).",
       "symptom": [
         "abdominal pain",
-        "clay-colored stools",
+        "clay colored stools",
         "dark urine",
         "fatigue",
         "jaundice",
@@ -19957,7 +19957,7 @@
       "description": "An infectious liver disease caused by hepatitis virus (HAV).",
       "symptom": [
         "abdominal pain",
-        "clay-colored stools",
+        "clay colored stools",
         "dark urine",
         "fatigue",
         "jaundice",
@@ -20011,7 +20011,7 @@
       "description": "An infectious liver disease caused by hepatitis virus (HAV).",
       "symptom": [
         "abdominal pain",
-        "clay-colored stools",
+        "clay colored stools",
         "dark urine",
         "fatigue",
         "jaundice",
@@ -20065,7 +20065,7 @@
       "description": "An infectious liver disease caused by hepatitis virus (HAV).",
       "symptom": [
         "abdominal pain",
-        "clay-colored stools",
+        "clay colored stools",
         "dark urine",
         "fatigue",
         "jaundice",
@@ -22271,7 +22271,7 @@
         "cloudy urine",
         "fever",
         "chills",
-        "foul-smelling urine",
+        "foul smelling urine",
         "frequent urination",
         "nausea",
         "painful urination",
@@ -22341,7 +22341,7 @@
         "cloudy urine",
         "fever",
         "chills",
-        "foul-smelling urine",
+        "foul smelling urine",
         "frequent urination",
         "nausea",
         "painful urination",
@@ -22411,7 +22411,7 @@
         "cloudy urine",
         "fever",
         "chills",
-        "foul-smelling urine",
+        "foul smelling urine",
         "frequent urination",
         "nausea",
         "painful urination",
@@ -22481,7 +22481,7 @@
         "cloudy urine",
         "fever",
         "chills",
-        "foul-smelling urine",
+        "foul smelling urine",
         "frequent urination",
         "nausea",
         "painful urination",
@@ -22551,7 +22551,7 @@
         "cloudy urine",
         "fever",
         "chills",
-        "foul-smelling urine",
+        "foul smelling urine",
         "frequent urination",
         "nausea",
         "painful urination",
@@ -22621,7 +22621,7 @@
         "cloudy urine",
         "fever",
         "chills",
-        "foul-smelling urine",
+        "foul smelling urine",
         "frequent urination",
         "nausea",
         "painful urination",
@@ -23407,7 +23407,7 @@
       "name": "lupus",
       "description": "An autoimmune disease where immune system attacks its tissues, causing inflammation.",
       "symptom": [
-        "butterfly-shaped rash on face",
+        "butterfly shaped rash on face",
         "chest pain",
         "fatigue",
         "fever",
@@ -23460,7 +23460,7 @@
       "name": "lupus",
       "description": "An autoimmune disease where immune system attacks its tissues, causing inflammation.",
       "symptom": [
-        "butterfly-shaped rash on face",
+        "butterfly shaped rash on face",
         "chest pain",
         "fatigue",
         "fever",
@@ -23513,7 +23513,7 @@
       "name": "lupus",
       "description": "An autoimmune disease where immune system attacks its tissues, causing inflammation.",
       "symptom": [
-        "butterfly-shaped rash on face",
+        "butterfly shaped rash on face",
         "chest pain",
         "fatigue",
         "fever",
@@ -23555,7 +23555,7 @@
       "name": "lupus",
       "description": "An autoimmune disease where immune system attacks its tissues, causing inflammation.",
       "symptom": [
-        "butterfly-shaped rash on face",
+        "butterfly shaped rash on face",
         "chest pain",
         "fatigue",
         "fever",
@@ -23597,7 +23597,7 @@
       "name": "lupus",
       "description": "An autoimmune disease where immune system attacks its tissues, causing inflammation.",
       "symptom": [
-        "butterfly-shaped rash on face",
+        "butterfly shaped rash on face",
         "chest pain",
         "fatigue",
         "fever",
@@ -23639,7 +23639,7 @@
       "name": "lupus",
       "description": "An autoimmune disease where immune system attacks its tissues, causing inflammation.",
       "symptom": [
-        "butterfly-shaped rash on face",
+        "butterfly shaped rash on face",
         "chest pain",
         "fatigue",
         "fever",
@@ -23818,7 +23818,7 @@
         "blurred central vision",
         "dark areas in central vision",
         "decreased intensity of color",
-        "difficulty in tasks that require fine vision",
+        "fine vision difficulty",
         "difficulty reading",
         "distorted central vision",
         "lesser brightness of colors",
@@ -23870,7 +23870,7 @@
         "blurred central vision",
         "dark areas in central vision",
         "decreased intensity of color",
-        "difficulty in tasks that require fine vision",
+        "fine vision difficulty",
         "difficulty reading",
         "distorted central vision",
         "lesser brightness of colors",
@@ -25381,7 +25381,7 @@
       "symptom": [
         "blurred central vision",
         "double vision",
-        "electric shock sensations with certain neck movements",
+        "electric shock sensations on neck movement",
         "fatigue",
         "lack of coordination",
         "slurred speech",
@@ -25448,7 +25448,7 @@
       "symptom": [
         "blurred central vision",
         "double vision",
-        "electric shock sensations with certain neck movements",
+        "electric shock sensations on neck movement",
         "fatigue",
         "lack of coordination",
         "slurred speech",
@@ -26187,7 +26187,7 @@
         "fatigue",
         "increased body fat",
         "joint and back pain",
-        "low self-esteem",
+        "low self esteem",
         "snoring"
       ],
       "remedy": [
@@ -26245,7 +26245,7 @@
         "fatigue",
         "increased body fat",
         "joint and back pain",
-        "low self-esteem",
+        "low self esteem",
         "snoring"
       ],
       "remedy": [
@@ -26303,7 +26303,7 @@
         "fatigue",
         "increased body fat",
         "joint and back pain",
-        "low self-esteem",
+        "low self esteem",
         "snoring"
       ],
       "remedy": [
@@ -26361,7 +26361,7 @@
         "fatigue",
         "increased body fat",
         "joint and back pain",
-        "low self-esteem",
+        "low self esteem",
         "snoring"
       ],
       "remedy": [
@@ -26419,7 +26419,7 @@
         "fatigue",
         "increased body fat",
         "joint and back pain",
-        "low self-esteem",
+        "low self esteem",
         "snoring"
       ],
       "remedy": [
@@ -26477,7 +26477,7 @@
         "fatigue",
         "increased body fat",
         "joint and back pain",
-        "low self-esteem",
+        "low self esteem",
         "snoring"
       ],
       "remedy": [
@@ -26535,7 +26535,7 @@
         "fatigue",
         "increased body fat",
         "joint and back pain",
-        "low self-esteem",
+        "low self esteem",
         "snoring"
       ],
       "remedy": [
@@ -26593,7 +26593,7 @@
         "fatigue",
         "increased body fat",
         "joint and back pain",
-        "low self-esteem",
+        "low self esteem",
         "snoring"
       ],
       "remedy": [
@@ -28758,7 +28758,7 @@
       "name": "premature ejaculation",
       "description": "Ejaculation that occurs sooner than desired, either before or shortly after penetration.",
       "symptom": [
-        "ejaculation that occurs within one minute of penetration",
+        "ejaculation occurs within one minute of penetration",
         "feelings of frustration",
         "inability to delay ejaculation"
       ],
@@ -30449,10 +30449,10 @@
       "symptom": [
         "blurred central vision",
         "changes in color perception",
-        "curtain-like shadows in visual field",
+        "curtain like shadows in visual field",
         "difficulty seeing at night",
         "distorted central vision",
-        "flashes of light in affected eye",
+        "light flashes affected eye",
         "floaters",
         "peripheral vision loss",
         "sudden loss of central vision"
@@ -30516,10 +30516,10 @@
       "symptom": [
         "blurred central vision",
         "changes in color perception",
-        "curtain-like shadows in visual field",
+        "curtain like shadows in visual field",
         "difficulty seeing at night",
         "distorted central vision",
-        "flashes of light in affected eye",
+        "light flashes affected eye",
         "floaters",
         "peripheral vision loss",
         "sudden loss of central vision"
@@ -30583,10 +30583,10 @@
       "symptom": [
         "blurred central vision",
         "changes in color perception",
-        "curtain-like shadows in visual field",
+        "curtain like shadows in visual field",
         "difficulty seeing at night",
         "distorted central vision",
-        "flashes of light in affected eye",
+        "light flashes affected eye",
         "floaters",
         "peripheral vision loss",
         "sudden loss of central vision"
@@ -30650,10 +30650,10 @@
       "symptom": [
         "blurred central vision",
         "changes in color perception",
-        "curtain-like shadows in visual field",
+        "curtain like shadows in visual field",
         "difficulty seeing at night",
         "distorted central vision",
-        "flashes of light in affected eye",
+        "light flashes affected eye",
         "floaters",
         "peripheral vision loss",
         "sudden loss of central vision"
@@ -30717,10 +30717,10 @@
       "symptom": [
         "blurred central vision",
         "changes in color perception",
-        "curtain-like shadows in visual field",
+        "curtain like shadows in visual field",
         "difficulty seeing at night",
         "distorted central vision",
-        "flashes of light in affected eye",
+        "light flashes affected eye",
         "floaters",
         "peripheral vision loss",
         "sudden loss of central vision"
@@ -33044,7 +33044,7 @@
       "symptom": [
         "flat sore with scaly crust",
         "new sore on an old scar",
-        "persistent scaly red patch with irregular borders that may bleed easily",
+        "persistent bleeding red patch",
         "persistent sore throat",
         "hoarseness",
         "red nodule on body",
@@ -33112,7 +33112,7 @@
       "symptom": [
         "flat sore with scaly crust",
         "new sore on an old scar",
-        "persistent scaly red patch with irregular borders that may bleed easily",
+        "persistent bleeding red patch",
         "persistent sore throat",
         "hoarseness",
         "red nodule on body",
@@ -36413,7 +36413,7 @@
         "rectal pain",
         "red urine",
         "strong urge to urinate",
-        "strong-smelling urine"
+        "strong smelling urine"
       ],
       "remedy": [
         "Antibiotics prescribed by doctor",
@@ -36479,7 +36479,7 @@
         "rectal pain",
         "red urine",
         "strong urge to urinate",
-        "strong-smelling urine"
+        "strong smelling urine"
       ],
       "remedy": [
         "Antibiotics prescribed by doctor",
@@ -36545,7 +36545,7 @@
         "rectal pain",
         "red urine",
         "strong urge to urinate",
-        "strong-smelling urine"
+        "strong smelling urine"
       ],
       "remedy": [
         "Antibiotics prescribed by doctor",
@@ -36611,7 +36611,7 @@
         "rectal pain",
         "red urine",
         "strong urge to urinate",
-        "strong-smelling urine"
+        "strong smelling urine"
       ],
       "remedy": [
         "Antibiotics prescribed by doctor",
@@ -36677,7 +36677,7 @@
         "rectal pain",
         "red urine",
         "strong urge to urinate",
-        "strong-smelling urine"
+        "strong smelling urine"
       ],
       "remedy": [
         "Antibiotics prescribed by doctor",
@@ -36743,7 +36743,7 @@
         "rectal pain",
         "red urine",
         "strong urge to urinate",
-        "strong-smelling urine"
+        "strong smelling urine"
       ],
       "remedy": [
         "Antibiotics prescribed by doctor",

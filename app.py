@@ -37,12 +37,13 @@ def predict():
     input_vector = cv.transform(symptoms)
 
     # Find nearest neighbors
-    distances, indices = knn_model.kneighbors(input_vector)
-
+    distances, indices = knn_model.kneighbors(input_vector, n_neighbors=300)
+    print(distances)
+    print(indices)
     # Get top diseases
     top_diseases = data.iloc[indices[0]]['disease']
     top_diseases = top_diseases.drop_duplicates()
-
+    
     # Get top symptoms
     all_symptoms = []
     for i in indices[-1]:
@@ -51,6 +52,7 @@ def predict():
         all_symptoms += [s for s in symp if s not in input_symptoms]
 
     all_symptoms = list(set(all_symptoms))
+    all_symptoms = [s for s in all_symptoms if s not in symptoms]
     all_symptoms.sort(key=lambda x: df_idf.loc[x]['idf_weights'], reverse=True)
     top_symptoms = all_symptoms[:10]
 

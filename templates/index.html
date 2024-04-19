@@ -742,7 +742,7 @@
           headers: {
             "Content-Type": "application/json",
           },
-          body: JSON.stringify({ symptoms: allInputs, age: "adult", gender: "male" }),
+          body: JSON.stringify({ symptoms: allInputs, age: "adult", gender: "male", rejected_symptoms: [] }),
         })
           .then((response) => response.json())
           .then((data) => {
@@ -763,6 +763,5 @@
           });
       }
     </script>
-    <script src="{{ url_for('static', filename='script.js') }}"></script>
   </body>
 </html>

@@ -33,11 +33,11 @@ with open('model.pkl', 'rb') as f:
 
 @app.route('/')
 def index():
-    return render_template('index.html')
-
-@app.route('/new')
-def innew():
     return render_template('new.html')
+
+@app.route('/old')
+def innew():
+    return render_template('index.html')
 
 @app.route('/get_data', methods=['POST'])
 def get_data():
@@ -61,6 +61,7 @@ def predict():
     input_age = req_data['age']
     input_gender = req_data['gender']
     input_symptoms = req_data['symptoms']
+    rejected_symptoms = req_data['rejected_symptoms']
 
     if(len(input_symptoms) < 3):
         k = 5
@@ -98,7 +99,9 @@ def predict():
     all_symptoms = []
     for i in indices[0]:
         symp = docs[i].split(',')
-        all_symptoms += [s for s in symp if s not in input_symptoms]
+        tempSymp = [s for s in symp if s not in input_symptoms]
+        tempSymp = [s for s in tempSymp if s not in rejected_symptoms]
+        all_symptoms += tempSymp
 
     counts = Counter(all_symptoms)
     sorted_symptoms = sorted(counts, key=counts.get)

@@ -3,6 +3,7 @@ let name = "";
 let age = "";
 let gender = "";
 let symptoms = [];
+let rejected_symptoms = [];
 let disease = [];
 let recommended_symptoms = [];
 let remedyData = {};
@@ -70,7 +71,7 @@ async function fetchNewSymptoms() {
         headers: {
             "Content-Type": "application/json",
         },
-        body: JSON.stringify({symptoms: symptoms, age: age, gender: gender}),
+        body: JSON.stringify({symptoms: symptoms, age: age, gender: gender, rejected_symptoms: rejected_symptoms}),
     });
     let data = await res.json();
     disease = data.top_diseases;
@@ -117,6 +118,7 @@ async function addMessageForQuestion(index) {
 
     document.getElementById("btn-no").addEventListener("click", function() {
         console.log("No");
+        rejected_symptoms.push(recommended_symptoms[index]);
         askQuestion(index + 1);
     });
 

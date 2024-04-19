@@ -709,27 +709,6 @@
       };
 
       // Make a POST request to the Flask API
-      fetch("/predict", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(inputData),
-      })
-        .then((response) => {
-          if (!response.ok) {
-            throw new Error("Network response was not ok");
-          }
-          return response.json();
-        })
-        .then((data) => {
-          // Handle the response data
-          console.log("Top diseases:", data.top_diseases);
-          console.log("Top symptoms:", data.top_symptoms);
-        })
-        .catch((error) => {
-          console.error("There was a problem with the fetch operation:", error);
-        });
 
       function addInput() {
         const newInput = document.createElement("div");
@@ -763,7 +742,7 @@
           headers: {
             "Content-Type": "application/json",
           },
-          body: JSON.stringify({ symptoms: allInputs }),
+          body: JSON.stringify({ symptoms: allInputs, age: "adult", gender: "male" }),
         })
           .then((response) => response.json())
           .then((data) => {
@@ -784,5 +763,6 @@
           });
       }
     </script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
   </body>
 </html>

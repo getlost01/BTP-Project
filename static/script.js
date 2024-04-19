@@ -58,9 +58,12 @@ function fixString(str) {
 
 function getRele(array, numElements) {
     let rele = [];
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
     for (let i = 0; i < numElements; i++) {
-      let randomIndex = Math.floor(Math.random() * array.length);
-      rele.push(array[randomIndex]);
+        rele.push(array[i]);
     }
     return rele;
 }  
@@ -88,7 +91,7 @@ function typeMessageWithDelay(message, delay) {
 
 async function addMessageWithTypingEffect(message, containerId) {
     var chatboxContent = document.getElementById(containerId);
-    var typingSpeed = 10; 
+    var typingSpeed = 25; 
 
       for (let char of message) {
         chatboxContent.innerHTML += char;
@@ -102,7 +105,7 @@ async function addMessageForQuestion(index) {
         <p id="question-step3"></p>
     `;
     var questionContent = document.getElementById("question-step3");
-    var typingSpeed = 10; 
+    var typingSpeed = 25; 
     var symp = fixString(recommended_symptoms[index]);
     var message = `Did you experience symptoms like ${symp} ?`;
      for (let char of message) {

@@ -1,10 +1,11 @@
 from flask import Flask, request, jsonify, render_template
+import json
 import pickle
 import pandas as pd
 from collections import Counter
 from sklearn.feature_extraction.text import CountVectorizer
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='/static')
 
 # Load the saved model and related data
 with open('model.pkl', 'rb') as f:
@@ -33,6 +34,25 @@ with open('model.pkl', 'rb') as f:
 @app.route('/')
 def index():
     return render_template('index.html')
+
+@app.route('/new')
+def innew():
+    return render_template('new.html')
+
+@app.route('/get_data', methods=['POST'])
+def get_data():
+    # Load data from JSON file
+    req_data = request.json
+    print(req_data)
+    disease = req_data['disease']
+    age = req_data['age']
+    gender = req_data['gender']
+    with open('./static/wholeData.json') as file:
+        data = json.load(file)
+    
+    data = [d for d in data if d['name'] == disease and d['ageGroup'] == age and d['gender'] == gender]
+    
+    return jsonify(data[0])
 
 @app.route('/predict', methods=['POST'])
 def predict():

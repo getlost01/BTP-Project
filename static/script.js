@@ -91,7 +91,7 @@ function typeMessageWithDelay(message, delay) {
 
 async function addMessageWithTypingEffect(message, containerId) {
     var chatboxContent = document.getElementById(containerId);
-    var typingSpeed = 25; 
+    var typingSpeed = 40; 
 
       for (let char of message) {
         chatboxContent.innerHTML += char;
@@ -105,7 +105,7 @@ async function addMessageForQuestion(index) {
         <p id="question-step3"></p>
     `;
     var questionContent = document.getElementById("question-step3");
-    var typingSpeed = 25; 
+    var typingSpeed = 40; 
     var symp = fixString(recommended_symptoms[index]);
     var message = `Did you experience symptoms like ${symp} ?`;
      for (let char of message) {

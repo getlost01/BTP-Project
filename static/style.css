@@ -348,6 +348,7 @@ button:focus{
 }
 .progress{
   border-radius: 50px;
+  font-weight: 800;
 }
 .progress-bar{
   background-color: #5161ce;

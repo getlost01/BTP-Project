@@ -259,6 +259,9 @@ async function handleStep4() {
         for (const remedy of getRele(data.ayurvedicRemedies, Math.min(6, data.ayurvedicRemedies.length))) {
             await addMessageWithTypingEffect(`🌿 ${remedy}`, "chatboxContent-step4");
         }
+        document.getElementById("chatboxContent-step4").innerHTML += `
+            <a href="https://www.google.com/search?q=yoga+for+${disease[0]}+across+internet" aria-controls="step1" aria-selected="true target="_blank">Know More</a>
+        `;
     }).then(() => {document.getElementById("prompts").style.display = "flex";});
 }
 
@@ -270,6 +273,9 @@ document.getElementById("r-yoga").addEventListener("click", function() {
         for (const yoga of getRele(remedyData.yoga, Math.min(6, remedyData.yoga.length))) {
             await addMessageWithTypingEffect(`🧘 ${yoga}`, "chatboxContent-r-yoga");
         }
+        document.getElementById("chatboxContent-r-yoga").innerHTML += `
+            <a href="https://www.google.com/search?q=yoga+for+${disease[0]}+across+internet" aria-controls="step1" aria-selected="true target="_blank">Know More</a>
+        `;
     })
 });
 
@@ -281,6 +287,9 @@ document.getElementById("r-ayurvedicDiet").addEventListener("click", function() 
         for (const diet of getRele(remedyData.ayurvedicDiet, Math.min(6, remedyData.ayurvedicDiet.length))) {
             await addMessageWithTypingEffect(`🥗 ${diet}`, "chatboxContent-r-ayurvedicDiet");
         }
+        document.getElementById("chatboxContent-r-ayurvedicDiet").innerHTML += `
+            <a href="https://www.google.com/search?q=diet+for+${disease[0]}+across+internet" aria-controls="step1" aria-selected="true target="_blank">Know More</a>
+        `;
     })
 });
 
@@ -303,5 +312,8 @@ document.getElementById("r-remedy").addEventListener("click", function() {
         for (const remedy of getRele(remedyData.remedy, Math.min(6, remedyData.remedy.length))) {
             await addMessageWithTypingEffect(`💊 ${remedy}`, "chatboxContent-r-remedy");
         }
+        document.getElementById("chatboxContent-r-remedy").innerHTML += `
+            <a href="https://www.google.com/search?q=medicine+for+${disease[0]}+across+internet" aria-controls="step1" aria-selected="true target="_blank">Know More</a>
+        `;
     })
 });
